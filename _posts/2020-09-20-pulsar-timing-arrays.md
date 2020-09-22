@@ -3,8 +3,8 @@ layout: post
 title: Pulsar timing arrays 
 subtitle: How cosmic clocks are helping us understand black holes
 cover-img: {"/assets/img/ptas/symmetry_mag.jpg": "Artwork by Sandbox Studio, Chicago with Corinne Mucha for Symmetry Magazine"}
-thumbnail-img: /assets/img/ptas/symmetry_mag.jpg
-share-img: /assets/img/ptas/symmetry_mag.jpg
+thumbnail-img: /assets/img/ptas/symmetry_mag_thumbnail.jpg
+share-img: /assets/img/ptas/symmetry_mag_thumbnail.jpg
 tags: [astrophysics, pulsars, gravitational waves]
 ---
 
