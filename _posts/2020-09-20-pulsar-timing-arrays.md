@@ -8,6 +8,9 @@ share-img: /assets/img/ptas/symmetry_mag_thumbnail.jpg
 tags: [astrophysics, pulsars, gravitational waves]
 ---
 
-
+*In a sentence:* Pulsar timings arrays are galactic-scale detectors, consisting of 
 
 Donec vitae vestibulum purus. Donec molestie commodo mauris in placerat. Nunc quis leo id dolor viverra luctus. Mauris at ipsum mi. Sed lorem leo, consectetur eget lorem in, pretium feugiat elit. Ut eget egestas sapien. Pellentesque sed metus turpis. Aenean rhoncus scelerisque finibus. Nam ultricies at orci ac efficitur. Donec eget auctor ex, ornare blandit nisl. Curabitur quis elit non enim sollicitudin ultricies. Donec sit amet ligula et velit vestibulum iaculis sed a turpis. Donec imperdiet sapien ut libero cursus dignissim.
+
+
+![GW_spectrum]( ../assets/img/ptas/gw_spectrum.png ){: .mx-auto.d-block :}
