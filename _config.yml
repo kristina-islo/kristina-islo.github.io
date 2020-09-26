@@ -14,10 +14,12 @@ author: Kristina Islo
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resume: 
-  Contact:
+  Blog:
   Tutorials: 
+  About Me: "aboutme"
+  Resume: "resume"
+  Contact: "contact"
+  
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
