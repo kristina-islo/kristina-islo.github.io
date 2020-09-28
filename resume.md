@@ -8,6 +8,9 @@ layout: page
 **Tools:** Pandas, NumPy, Sklearn, Matplotlib, git, Google Colab, AWS  
 **Methods:** statistical modeling, bayesian inference, time-domain modeling
 
+![](coding.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+
+
 ## EXPERIENCE
 #### Data Science Fellow, ​ Insight, ​Seattle, WA May 2020 - Present
 
