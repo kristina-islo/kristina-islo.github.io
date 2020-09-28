@@ -1,7 +1,6 @@
 ---
 layout: page
 ---
-# Kristina Islo
 #### ​Seattle, WA
 ## SKILLS
 
