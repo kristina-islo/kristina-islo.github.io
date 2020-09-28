@@ -4,11 +4,12 @@ layout: page
 #### ​Seattle, WA
 ## SKILLS
 
+
+![](coding.png =100x20){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+
 **Programming Languages:** Python, SQL  
 **Tools:** Pandas, NumPy, Sklearn, Matplotlib, git, Google Colab, AWS  
 **Methods:** statistical modeling, bayesian inference, time-domain modeling
-
-![](coding.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 
 ## EXPERIENCE
