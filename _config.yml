@@ -16,6 +16,7 @@ author: Kristina Islo
 navbar-links:
   About Me: "aboutme"
   Resume: "resume"
+  Past Talks: "talks"
   
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
