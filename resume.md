@@ -37,7 +37,7 @@ population properties
 gravitational-wave impulse detection by next-generation instruments
 - Collaborated with >20 scientists to produce 8+ publications
 
-![](coffeshop.png){: width=225 height=200 style="float: left;margin-left: 7px;margin-top: 7px;"}
+![](coffeshop.png){:style="float: left;margin-left: 7px;margin-top: 7px;"}
 
 #### Graduate Research Associate, ​ UW-Milwaukee, ​Milwaukee, WI September 2012 - May 2019
 
