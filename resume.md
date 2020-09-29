@@ -44,7 +44,7 @@ timing data sets; retrieves outcomes in minutes as opposed to weeks
 - Led student workshop at collaboration conference covering data analysis theory and applied protocol
 for model selection and parameter estimation
 - Spearheaded 5+ presentations through science-cafe series and created translation strategies to share
-abstract physics concepts with non-expert audiences of > 100 in metro-area Milwaukee
+abstract physics concepts with non-expert audiences of > 100 in metro-area Milwaukee  
 
 ![](coffeshop.png){: width=225 height=200 style="float: left;margin-left: 7px;margin-top: 7px;"}
 
