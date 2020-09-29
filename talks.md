@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Past Talks
-subtitle: A selection of presentations
+subtitle: A selection of presentations for students, scientists or the public
 ---
 
 *Overview of Bayesian Data Analysis for NANOGrav students*  
