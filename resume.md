@@ -48,13 +48,15 @@ abstract physics concepts with non-expert audiences of > 100 in metro-area Milwa
 
 ![](coffeeshop.png){: width=202 height=180 style="float: left;margin-left: 7px;margin-top: 7px;"}
 
-<span style="text-align:right;">
-<h2>EDUCATION</h2>
+<div align="right">
+
+## EDUCATION
 **University of Wisconsin-Milwaukee** 2019  
 Ph.D., Astrophysics  
 **University of Wisconsin - Milwaukee** 2012  
 B.S., Physics
-</span>
+
+</div>
 
 
 
