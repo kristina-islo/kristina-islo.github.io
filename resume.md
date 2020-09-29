@@ -46,7 +46,7 @@ for model selection and parameter estimation
 - Spearheaded 5+ presentations through science-cafe series and created translation strategies to share
 abstract physics concepts with non-expert audiences of > 100 in metro-area Milwaukee
 
-![](coffeshop.png =200x225){:style="float: left;margin-left: 7px;margin-top: 7px;"}
+![](coffeshop.png){: width=225 height=200 style="float: left;margin-left: 7px;margin-top: 7px;"}
 
 ## EDUCATION
 
