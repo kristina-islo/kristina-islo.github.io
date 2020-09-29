@@ -37,8 +37,6 @@ population properties
 gravitational-wave impulse detection by next-generation instruments
 - Collaborated with >20 scientists to produce 8+ publications
 
-![](coffeshop.png){:style="float: left;margin-left: 7px;margin-top: 7px;"}
-
 #### Graduate Research Associate, ​ UW-Milwaukee, ​Milwaukee, WI September 2012 - May 2019
 
 - Developed accelerated metric to evaluate evidence of stochastic gravitational-wave signals in pulsar
@@ -47,6 +45,8 @@ timing data sets; retrieves outcomes in minutes as opposed to weeks
 for model selection and parameter estimation
 - Spearheaded 5+ presentations through science-cafe series and created translation strategies to share
 abstract physics concepts with non-expert audiences of > 100 in metro-area Milwaukee  
+
+![](coffeeshop.png){: width=225 height=200 style="float: left;margin-left: 7px;margin-top: 7px;"}
 
 ## EDUCATION
 
