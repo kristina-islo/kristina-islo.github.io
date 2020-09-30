@@ -6,7 +6,7 @@ layout: page
 ## SKILLS
 
 **Programming Languages:** Python, SQL  
-**Tools:** Pandas, NumPy, Sklearn, Matplotlib, git, Google Colab, AWS  
+**Tools:** Pandas, NumPy, Sklearn, Matplotlib, statsmodels, PyMC3, git, Google Colab, AWS  
 **Methods:** statistical modeling, bayesian inference, time-domain modeling  
 ![](coding.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
@@ -49,13 +49,11 @@ abstract physics concepts with non-expert audiences of > 100 in metro-area Milwa
 ![](coffeeshop.png){: width=202 height=180 style="float: left;margin-left: 7px;margin-top: 7px;"}
 
 <div align="right" markdown="1">
-
 ## EDUCATION  
 **University of Wisconsin-Milwaukee** 2019    
 Ph.D., Astrophysics  
 **University of Wisconsin - Milwaukee** 2012    
 B.S., Physics
-
 </div>
 
 
