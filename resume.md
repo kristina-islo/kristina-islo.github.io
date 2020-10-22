@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+## Kristina Islo
 
 ## SKILLS
 **Programming Languages:** Python, SQL  
