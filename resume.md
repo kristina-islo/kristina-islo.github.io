@@ -23,7 +23,7 @@ best-rated cosmetics for their skin tone
 complementary product colors
 - Deployed model through an interactive dashboard powered by Streamlit, hosted on Amazon Web Services
 
-#### Data Analyst, ​ North American Nanohertz Observatory for Gravitational Waves ​ 
+#### Data Analyst, ​ [North American Nanohertz Observatory for Gravitational Waves](http://nanograv.org/)​ 
 May 2019 - August 2019
 
 
