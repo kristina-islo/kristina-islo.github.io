@@ -4,6 +4,9 @@
 
 {% if page.cover-img or page.title %}
 
+<link rel="shortcut icon" type="image/png" href="/favicon.png">
+
+
 {% if page.cover-img %}
   <div id="header-big-imgs" data-num-img={% if page.cover-img.first %}{{ page.cover-img.size }}{% else %}1{% endif %}
     {% for bigimg in page.cover-img %}
