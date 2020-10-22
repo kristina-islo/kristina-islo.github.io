@@ -1,5 +1,8 @@
 ---
 layout: page
+h4, h5, h6 {
+    margin: 0;
+}
 ---
 ## SKILLS
 
@@ -10,11 +13,11 @@ layout: page
 
 
 ## EXPERIENCE
-#### Data Scientist,​ Nordstrom, ​Seattle, WA 
+#### Data Scientist,​ Nordstrom, ​Seattle, WA
 October 2020 - Present
 
 
-#### Data Science Fellow,  [Insight](https://insightfellows.com/), ​Seattle, WA 
+#### Data Science Fellow,  [Insight](https://insightfellows.com/), ​Seattle, WA
 May 2020 - October 2020
 
 - Built an end-to-end, python-based web application aiming to serve a diverse set of consumers find the
@@ -23,7 +26,7 @@ best-rated cosmetics for their skin tone
 complementary product colors
 - Deployed model through an interactive dashboard powered by Streamlit, hosted on Amazon Web Services
 
-#### Data Analyst, ​ [North American Nanohertz Observatory for Gravitational Waves](http://nanograv.org/)​ 
+#### Data Analyst, ​ [North American Nanohertz Observatory for Gravitational Waves](http://nanograv.org/)​
 May 2019 - August 2019
 
 
@@ -34,14 +37,14 @@ gravitational signals from resulting posterior distributions; used these limits 
 population properties
 - Diagnosed and tailored signal search pipelines to decouple correlated time signatures and mitigate false alarms
 
-#### Postdoctoral Research Associate, ​[Center for Gravitation, Cosmology, and Astrophysics](https://cgca.uwm.edu/), ​Milwaukee, WI 
+#### Postdoctoral Research Associate, ​[Center for Gravitation, Cosmology, and Astrophysics](https://cgca.uwm.edu/), ​Milwaukee, WI
 May 2019 - August 2019
 
 - Adapted binary black hole simulation to incorporate physics of low-mass binaries; results forecast first
 gravitational-wave impulse detection by next-generation instruments
 - Collaborated with >20 scientists to produce 8+ publications
 
-#### Graduate Research Associate, ​UW-Milwaukee, ​Milwaukee, WI 
+#### Graduate Research Associate, ​UW-Milwaukee, ​Milwaukee, WI
 September 2012 - May 2019
 
 - Developed accelerated metric to evaluate evidence of stochastic gravitational-wave signals in pulsar
