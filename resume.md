@@ -14,7 +14,7 @@ layout: page
 October 2020 - Present
 
 
-#### Data Science Fellow,  Insight, ​Seattle, WA 
+#### Data Science Fellow,  [Insight](https://insightfellows.com/), ​Seattle, WA 
 May 2020 - October 2020
 
 - Built an end-to-end, python-based web application aiming to serve a diverse set of consumers find the
@@ -34,14 +34,14 @@ gravitational signals from resulting posterior distributions; used these limits 
 population properties
 - Diagnosed and tailored signal search pipelines to decouple correlated time signatures and mitigate false alarms
 
-#### Postdoctoral Research Associate, ​ UW-Milwaukee, ​Milwaukee, WI 
+#### Postdoctoral Research Associate, ​[Center for Gravitation, Cosmology, and Astrophysics](https://cgca.uwm.edu/), ​Milwaukee, WI 
 May 2019 - August 2019
 
 - Adapted binary black hole simulation to incorporate physics of low-mass binaries; results forecast first
 gravitational-wave impulse detection by next-generation instruments
 - Collaborated with >20 scientists to produce 8+ publications
 
-#### Graduate Research Associate, ​ UW-Milwaukee, ​Milwaukee, WI 
+#### Graduate Research Associate, ​UW-Milwaukee, ​Milwaukee, WI 
 September 2012 - May 2019
 
 - Developed accelerated metric to evaluate evidence of stochastic gravitational-wave signals in pulsar
