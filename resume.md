@@ -1,8 +1,6 @@
 ---
 layout: page
 ---
-#### ​Seattle, WA
-
 ## SKILLS
 
 **Programming Languages:** Python, SQL  
