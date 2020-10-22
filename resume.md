@@ -12,11 +12,12 @@ layout: page
 
 
 ## EXPERIENCE
-#### Data Scientist, ​ Nordstrom, ​Seattle, WA October 2020 - Present
+#### Data Scientist,​ Nordstrom, ​Seattle, WA 
+October 2020 - Present
 
 
-#### Data Science Fellow, ​ Insight, ​Seattle, WA May 2020 - October 2020
-
+#### Data Science Fellow,  Insight, ​Seattle, WA 
+May 2020 - October 2020
 
 - Built an end-to-end, python-based web application aiming to serve a diverse set of consumers find the
 best-rated cosmetics for their skin tone
@@ -24,7 +25,8 @@ best-rated cosmetics for their skin tone
 complementary product colors
 - Deployed model through an interactive dashboard powered by Streamlit, hosted on Amazon Web Services
 
-#### Data Analyst, ​ North American Nanohertz Observatory for Gravitational Waves ​ May 2019 - August 2019
+#### Data Analyst, ​ North American Nanohertz Observatory for Gravitational Waves ​ 
+May 2019 - August 2019
 
 
 - Enhanced signal-search pipelines performing data analysis on 15+ years of radio telescope data to
@@ -34,13 +36,15 @@ gravitational signals from resulting posterior distributions; used these limits 
 population properties
 - Diagnosed and tailored signal search pipelines to decouple correlated time signatures and mitigate false alarms
 
-#### Postdoctoral Research Associate, ​ UW-Milwaukee, ​Milwaukee, WI May 2019 - August 2019
+#### Postdoctoral Research Associate, ​ UW-Milwaukee, ​Milwaukee, WI 
+May 2019 - August 2019
 
 - Adapted binary black hole simulation to incorporate physics of low-mass binaries; results forecast first
 gravitational-wave impulse detection by next-generation instruments
 - Collaborated with >20 scientists to produce 8+ publications
 
-#### Graduate Research Associate, ​ UW-Milwaukee, ​Milwaukee, WI September 2012 - May 2019
+#### Graduate Research Associate, ​ UW-Milwaukee, ​Milwaukee, WI 
+September 2012 - May 2019
 
 - Developed accelerated metric to evaluate evidence of stochastic gravitational-wave signals in pulsar
 timing data sets; retrieves outcomes in minutes as opposed to weeks
