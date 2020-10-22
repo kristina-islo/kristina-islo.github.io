@@ -12,7 +12,10 @@ layout: page
 
 
 ## EXPERIENCE
-#### Data Science Fellow, ​ Insight, ​Seattle, WA May 2020 - Present
+#### Data Scientist, ​ Nordstrom, ​Seattle, WA October 2020 - Present
+
+
+#### Data Science Fellow, ​ Insight, ​Seattle, WA May 2020 - October 2020
 
 
 - Built an end-to-end, python-based web application aiming to serve a diverse set of consumers find the
